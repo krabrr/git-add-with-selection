@@ -1,2 +1,4 @@
-# git-add-with-selection
-simple python script that help to select file that you want to add in "git add" command
+# krabrr-git-lib
+simple python script that work with git command
+
+gadds - help to select file that you want to add in "git add" command
