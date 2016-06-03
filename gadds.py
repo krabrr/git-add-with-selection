@@ -34,7 +34,7 @@ for output in outputs:
 if len(files) == 0:
     print 'no files to add'
     sys.exit()
-print '\nselect file indice to add:\n'
+print '\nselect file indices to add:\n'
 
 for idx in range(len(files)):
     print '['+str(idx)+'] '+str(files[idx])
