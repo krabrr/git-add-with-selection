@@ -40,7 +40,7 @@ for idx in range(len(files)):
     print '['+str(idx)+'] '+str(files[idx])
 print ''
 
-inp = raw_input('indice: ')
+inp = raw_input('indices: ')
 idx_list = inp.split()
 idx_list = [int(idx) for idx in idx_list]
 result = [] 
